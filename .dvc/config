@@ -1,4 +1,4 @@
 [core]
     remote = storage
 ['remote "storage"']
-    url = https://remote.dvc.org/get-started-pools
+    url = gdrive://1PTHXv4a4DB7HLz6IeBwhwtEFk06ueim_
